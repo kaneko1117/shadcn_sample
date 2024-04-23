@@ -1,2 +1,1 @@
 # shadcn_sample
-ミライバライ
